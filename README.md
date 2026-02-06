@@ -1,6 +1,6 @@
 # Tortilla-Link-Generator
-A link generator for Tortilla Games with credit to ZYPHER Studios.
-__________________________________________________________________
+A link generator for Tortilla Games with credit to ZYPHER Studios. This version is a little more streamlined, with fewer errors.
+________________________________________________________________________________________________________________________________
 Welcome to the GitHub proxy for Tortilla. This will allow you to make a xxxxx.app.github.dev URL to access Tortilla, which is hopefully unblocked for you.
 
 Prerequisites
